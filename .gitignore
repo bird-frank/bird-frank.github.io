@@ -9,8 +9,6 @@ Thumbs.db
 .rbenv-version
 .rvmrc
 _includes/themes/bootstrap-3/default.html
-_posts
-_posts/2014-10-05-hello-jekyll.md
 assets/themes/bootstrap-3/css/style.css
 assets/jquery.min.js
 _config.yml
