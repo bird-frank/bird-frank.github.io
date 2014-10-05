@@ -1,27 +1,25 @@
 /* Custom container */
 
 /* Replaced with normal container and standard footer */
-/*.container-narrow {
+.container {
   margin: 0 auto;
-  max-width: 700px; }
+  max-width: 860px; }
 
 .container-narrow > hr {
   margin: 30px 0; }
-*/
+
 
 /* Replaced with standard BS3 Navbar */
-/*.navbar .nav {
-  float: right; }*/
+/* .navbar .nav {
+  float: right; } */
 
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
-  color: #f22430;
+  color: #333;
 }
 #footer {
   background-color: #fdcd60;
 }
-
-
 
 /* posts index */
 .post > h3.title {
