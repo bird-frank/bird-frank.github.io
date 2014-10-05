@@ -8,8 +8,3 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
-_includes/themes/bootstrap-3/default.html
-assets/themes/bootstrap-3/css/style.css
-assets/jquery.min.js
-_config.yml
-index.md
