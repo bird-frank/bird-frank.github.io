@@ -1,13 +1,36 @@
+body {
+    font-size: 14px;
+    font-family: "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    color: #555;
+    background-color: #fbfbfb; }
 /* Custom container */
 
 /* Replaced with normal container and standard footer */
+
 .container {
   margin: 0 auto;
-  max-width: 860px; }
+  max-width: 960px; }
+
 
 .container-narrow > hr {
-  margin: 30px 0; }
+    margin: 30px 0; }
 
+nav.navbar-default {
+    background-color: transparent;
+    background-image: none;
+    border-bottom: none;
+/*    box-shadow: none; */
+}
+
+nav.navbar-default .navbar-brand {
+    color: #a9a9a9;
+}
+
+a.tag:hover,
+a.tag:focus {    
+    color: white;
+    text-decoration: none;
+}
 
 /* Replaced with standard BS3 Navbar */
 /* .navbar .nav {
@@ -15,11 +38,19 @@
 
 /* Jekyll Bootstrap Colors */
 h1, h2, h3, h4 {
-  color: #333;
+ 
 }
+
+h1 > a, h2 > a, h3 > a, h4 > a {
+    color: #555;
+}
+
 #footer {
-  background-color: #fdcd60;
+    background-color: transparent;
+    font-size: 0.8em;
 }
+
+#footer p { color: #aaa; }
 
 /* posts index */
 .post > h3.title {
@@ -75,3 +106,8 @@ h1, h2, h3, h4 {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+div.content p {
+    text-align: justify;
+    line-height: 1.5em;
+}
