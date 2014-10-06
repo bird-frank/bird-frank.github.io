@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "微信支付文档勘误"
+title: "微信支付文档补遗"
 description: ""
 category: "技术"
 tags: [微信]
