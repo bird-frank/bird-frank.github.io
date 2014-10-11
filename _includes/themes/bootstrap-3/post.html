@@ -30,9 +30,11 @@
     {% else %}
       <li class="prev disabled"><a>&larr; </a></li>
     {% endif %}
-      <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+    <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">
+        <span class="fa fa-list" />
+      </a></li>
     {% if page.next %}
-      <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">&raquo;</a></li>
+      <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">&rarr;</a></li>
     {% else %}
       <li class="next disabled"><a>&rarr;</a>
     {% endif %}
