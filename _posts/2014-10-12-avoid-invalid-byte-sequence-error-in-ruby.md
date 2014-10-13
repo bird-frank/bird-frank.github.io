@@ -15,7 +15,7 @@ tags: [ruby]
 
 所以最好是在有风险的外部数据进入系统的边界处进行处理。简单的处理程序如下：
 
-{% highlight ruby linenos %}
+```ruby
 def correct_encoding(value)
   return value if value.valid_encoding?
   v = value.encode(Encoding::ISO8859_1, Encoding::UTF_8,
@@ -23,7 +23,7 @@ def correct_encoding(value)
   v.encode(Encoding::UTF_8, Encoding::ISO8859_1,
            invalid: :replace, undef: :replace)
 end
-{% endhighlight %}
+```
 
 encode函数的两个option invalid 和 undef 分别指示当碰到非法的字节序列或不能转换的编码是应该如何处理。缺省都是抛出异常。指定为 :replace，表示用指定的替换字符替换非法的或不能处理的编码。缺省的替换字符是uFFFD（对Unicode）或“?”（对其它编码），替换字符可以用:replace 选项另外指定。
 
