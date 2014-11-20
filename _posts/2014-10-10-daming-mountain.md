@@ -3,7 +3,7 @@ layout: post
 title: "雄峙浙皖——大明山游记"
 description: ""
 category: "生活"
-tags: [travel, photograph]
+tags: [travel, 摄影]
 ---
 {% include JB/setup %}
 
