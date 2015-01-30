@@ -2,7 +2,7 @@
 layout: post
 title: Faraday中设置Net::HTTPSession的SSL连接参数
 category: 技术
-tags: [ruby ssl]
+tags: [ruby, ssl]
 ---
 
 {% include JB/setup %}
