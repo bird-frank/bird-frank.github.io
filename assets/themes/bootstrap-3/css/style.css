@@ -121,10 +121,10 @@ div.content p {
 }
 
 div.content p img {
-    margin: 20px auto;
+    margin: 10px auto;
     border: 1px solid #ccc;
     padding: 10px;
-    width: 90%;
+    width: 95%;
     display: block;
     background-color: white;
 }
