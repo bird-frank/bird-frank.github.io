@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 台湾八日游——第二天
+title: 台湾环岛八日游——第二天
 description: ""
 category: travel
 tags: [摄影]
@@ -119,5 +119,5 @@ src="http://i46.photobucket.com/albums/f136/bird_frank/_IGP5573_zpsbbdb4a5f.jpg"
 </a>
 
 从淡水回到台北后，晚上在士林夜市吃完饭。坦率说，有些失望。摊档很多，但
-是品种重复度很高，味道也不见得比别的地方还多少，纯粹“到此一游”的一个地
+是品种重复度很高，味道也不见得比别的地方好多少，纯粹“到此一游”的一个地
 方而已。
