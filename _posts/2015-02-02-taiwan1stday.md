@@ -2,7 +2,7 @@
 layout: post
 title: 台湾环岛八日游——第一天
 description: ""
-category: 旅游
+category: travel
 tags: [摄影]
 ---
 

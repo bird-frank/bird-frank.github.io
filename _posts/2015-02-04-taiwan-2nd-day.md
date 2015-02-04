@@ -2,7 +2,7 @@
 layout: post
 title: 台湾八日游——第二天
 description: ""
-category: 旅游
+category: travel
 tags: [摄影]
 ---
 
