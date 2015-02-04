@@ -2,8 +2,8 @@
 layout: post
 title: 天平山的红叶
 description: ""
-category:
-tags: [摄影, travel]
+category: 旅游
+tags: [摄影]
 ---
 
 {% include JB/setup %}
