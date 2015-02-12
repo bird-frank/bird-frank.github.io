@@ -11,11 +11,16 @@ tags: [摄影]
 涛声陪伴我们入眠。房间临海的窗户正对着东方，原想第二天早上一睁眼就能看
 日出的，不过早上拉开窗帘只看到阴云密布的海面，太阳自然是露不了脸了。
 
-照片底部就是我们住的民宿和隔壁另一家民宿的后院。
+民宿后院的大海, 照片底部就是我们住的民宿和隔壁另一家民宿的后院。
 
-![阴云密布的大海](http://i46.photobucket.com/albums/f136/bird_frank/_IGP5727_zps7e5d0780.jpg)
+<a
+href="http://i46.photobucket.com/albums/f136/bird_frank/_IGP5727_zps7e5d0780.jpg"
+target="_blank" alt="民宿后院的大海"><img src="http://i46.photobucket.com/albums/f136/bird_frank/_IGP5727_zps7e5d0780.jpg" /></a>
 
-![民宿后院的大海](http://i46.photobucket.com/albums/f136/bird_frank/_IGP5738_zps434951e7.jpg)
+<a
+href="http://i46.photobucket.com/albums/f136/bird_frank/_IGP5738_zps434951e7.jpg"
+target="_blank" alt="民宿后院的大海"><img src="http://i46.photobucket.com/albums/f136/bird_frank/_IGP5738_zps434951e7.jpg" /></a>
+
 
 离开酒店后，即沿东海岸公路向台东进发，经过北回归线标志后，我们就从亚热
 带进入了热带。
