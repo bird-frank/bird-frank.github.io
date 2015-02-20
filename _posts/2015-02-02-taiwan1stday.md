@@ -18,8 +18,6 @@ tags: [摄影]
 
 ![餐厅内装饰](http://i46.photobucket.com/albums/f136/bird_frank/_IGP5374_zps10f9d089.jpg)
 
-![现代主义的雕塑](http://i46.photobucket.com/albums/f136/bird_frank/_IGP5375_zps9d08d6d9.jpg)
-
 现代与古典
 ![现代与古典](http://i46.photobucket.com/albums/f136/bird_frank/_IGP5377_zps924a68a6.jpg)
 
