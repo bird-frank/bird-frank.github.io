@@ -6,9 +6,10 @@ category: travel
 tags: [摄影]
 ---
 
-今天由台东出发往垦丁。这段路程比较长，开了一上午，中午在这家“台湾牛”吃的牛肉面。这家店的招牌上写着
-“四学士姐妹经营”，是因为老板的四个女儿全部大学毕业，然后又都回家帮老爸经营牛肉面店。现在的“台湾牛”已
-经有好几个分店了。
+今天由台东出发往垦丁。这段路程比较长，开了一上午，中午在这家“台湾牛”吃
+的牛肉面。这家店的招牌上写着“四学士姐妹经营”，是因为老板的四个女儿全部
+大学毕业，然后又都回家帮老爸经营牛肉面店。现在的“台湾牛”已经有好几个
+分店了。
 
 ![台湾牛](http://i46.photobucket.com/albums/f136/bird_frank/_IGP5875_zps355502ac.jpg)
 
@@ -30,7 +31,7 @@ alt="猫鼻头"><img src="http://i46.photobucket.com/albums/f136/bird_frank/_IGP
 <a href="http://i46.photobucket.com/albums/f136/bird_frank/_IGP5896_zps8b66dfd1.jpg" target="_blank"
 alt="远眺鹅銮鼻"><img src="http://i46.photobucket.com/albums/f136/bird_frank/_IGP5896_zps8b66dfd1.jpg" /></a>
 
-下面照片中海中的那块石头形如一只蹲着的猫，因此叫猫岩。这里可以说能远眺三片海域：台湾海峡、巴士海峡与
+下面照片中海中的那块石头形如一只蹲着的猫，因此叫猫岩。这里可以远眺三片海域：台湾海峡、巴士海峡与
 南海。
 
 <a href="http://i46.photobucket.com/albums/f136/bird_frank/_IGP5893_zpsa2258e59.jpg" target="_blank"
@@ -73,7 +74,6 @@ alt="鹅銮鼻"><img src="http://i46.photobucket.com/albums/f136/bird_frank/_IGP
 <a href="http://i46.photobucket.com/albums/f136/bird_frank/_IGP5986_zpsf15b1461.jpg" target="_blank"
 alt="巴士海峡"><img src="http://i46.photobucket.com/albums/f136/bird_frank/_IGP5986_zpsf15b1461.jpg" /></a>
 
-
 这个应该是古代海洋生物的化石吧？
 
 ![化石](http://i46.photobucket.com/albums/f136/bird_frank/_IGP5998_zps352537f9.jpg)
@@ -89,4 +89,5 @@ alt="阳光"><img src="http://i46.photobucket.com/albums/f136/bird_frank/_IGP600
 ![垦丁大街](http://i46.photobucket.com/albums/f136/bird_frank/_IGP6028_zps020a7e92.jpg)
 
 ![垦丁大街](http://i46.photobucket.com/albums/f136/bird_frank/_IGP6029_zps56a831b7.jpg)
+
 {% include JB/setup %}

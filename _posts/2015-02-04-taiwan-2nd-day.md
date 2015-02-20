@@ -13,6 +13,7 @@ tags: [摄影]
 ![总统府](http://i46.photobucket.com/albums/f136/bird_frank/_IGP5448_zps66dd0476.jpg)
 
 然后是中正纪念堂。这是纪念堂前的广场，在陈水扁当政时期改名为“自由广场”。
+牌楼上的字也由“大中至正”该成了“自由广场”——改得真没文化。
 
 <a
 href="http://i46.photobucket.com/albums/f136/bird_frank/_IGP5456_zps7a0c65a0.jpg"
@@ -52,7 +53,9 @@ src="http://i46.photobucket.com/albums/f136/bird_frank/_IGP5453_zpsd7aae382.jpg"
 字念“xian”，音同“鲜”，饭菜的味道果然都很鲜美。饭店老板自己有两艘渔船，
 所以海鲜都很新鲜，清炒的花蟹鲜嫩而有一种淡淡的甜味，超赞！
 
-这是饭店外的街景。总感觉台湾这些小街的街景神似日本。
+这是饭店外的街景。总感觉台湾这些小街的街景神似日本，行车道和人行道都窄
+窄的，两边的楼房矮矮的，行人不多。第一眼看去和大陆的最大却别是——完全没
+有自行车、助动车！
 
 ![街景](http://i46.photobucket.com/albums/f136/bird_frank/_IGP5515_zps981e98d8.jpg)
 
@@ -60,7 +63,7 @@ src="http://i46.photobucket.com/albums/f136/bird_frank/_IGP5453_zpsd7aae382.jpg"
 
 ![石门洞](http://i46.photobucket.com/albums/f136/bird_frank/_IGP5559_zps164827f8.jpg)
 
-这里的海边怪事零落，挡住了海上来的浪涛，近岸处的水清澈而又平静，非常神
+这里的海边怪石零落，挡住了海上来的浪涛，近岸处的水清澈而又平静，非常神
 奇。
 
 ![石门洞海滩](http://i46.photobucket.com/albums/f136/bird_frank/_IGP5557_zps8c0f02b9.jpg)
@@ -119,6 +122,6 @@ src="http://i46.photobucket.com/albums/f136/bird_frank/_IGP5573_zpsbbdb4a5f.jpg"
 />
 </a>
 
-从淡水回到台北后，晚上在士林夜市吃完饭。坦率说，有些失望。摊档很多，但
-是品种重复度很高，味道也不见得比别的地方好多少，纯粹“到此一游”的一个地
-方而已。
+从淡水回到台北后，晚上在士林夜市吃完饭。坦率说，有些失望，可能年纪大了，
+这里不是“我的菜”了。摊档很多，但是品种重复度很高，味道也不见得比别的地
+方好多少，纯粹“到此一游”的一个地方而已。
