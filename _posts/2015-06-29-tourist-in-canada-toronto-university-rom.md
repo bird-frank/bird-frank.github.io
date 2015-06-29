@@ -22,7 +22,7 @@ University College。这是学生的宿舍。住在里面是不是会有住在�
 ROM街对面的四季酒店总部。
 ![四季酒店总部](http://i46.photobucket.com/albums/f136/bird_frank/_IGP6735_zps0e3enqo8.jpg)
 
-ROM的新楼，我们是有这里进入博物馆开始参观的。据说这个楼曾经被评选为多伦多最丑的楼。是不是所有这些现
+ROM的新楼，我们是由这里进入博物馆开始参观的。据说这个楼曾经被评选为多伦多最丑的楼。是不是所有这些现
 代派建筑都会需要一个过程才会被人接受？
 <a href="http://s46.photobucket.com/user/bird_frank/media/_IGP6769_zpspdtavqcc.jpg.html"
 target="_blank"><img
@@ -35,7 +35,7 @@ src="http://i46.photobucket.com/albums/f136/bird_frank/_IGP6771_zpslbgsdvjf.jpg"
 photo _IGP6771_zpslbgsdvjf.jpg"/></a>
 
 清末明初，关宁军阀的代表人物祖大寿死后葬在北京。1919年，皮货商人克拉虎受ROM委托在中国收购明清高官墓
-葬，结果就选中了祖大寿墓。于是这个墓就飘扬过来来到多伦多，成了ROM里的一件展品。
+葬，结果就选中了祖大寿墓。于是这个墓就飘扬过海来到多伦多，成了ROM里的一件展品。
 
 ![祖大寿墓](http://i46.photobucket.com/albums/f136/bird_frank/_IGP6743_zpslwnupgoz.jpg)
 
@@ -73,7 +73,11 @@ photo _IGP6771_zpslbgsdvjf.jpg"/></a>
 
 ![镶嵌玻璃](http://i46.photobucket.com/albums/f136/bird_frank/_IGP6751_zpstemheo40.jpg)
 
+----
 
+今天是多伦多同性恋大游行的日子，据说这个游行的规模可以排到世界前三。因为游行队伍经过的街道离ROM
+只有几个路口，所以就去看下。如果围观人群很多，没有好的位置，就没拍照片。现场热闹的很，有点狂欢节的气
+氛。只是这种反自然的事情居然成了一种政治正确，怎么都给人一种文明没落的感觉。
 
 
 
