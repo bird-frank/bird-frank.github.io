@@ -60,7 +60,7 @@ Flowerpot Island上的小花盆。海水侵蚀、岩石风华形成这样上大�
 另一座更大一些的“Flowerpot”。
 ![Flowerpot](http://i46.photobucket.com/albums/f136/bird_frank/_IGP6920_zps3x5yrqol.jpg)
 
-环嘴鸥（Ring Billed Gull）是岛上（也是我们在湖边）看到的最多的鸟类了。环嘴鸥因起喙上有黑色环状花纹而得名。
+环嘴鸥（Ring Billed Gull）是岛上（也是我们在湖边）看到的最多的鸟类了。环嘴鸥因其喙上有黑色环状花纹而得名。
 ![环嘴鸥](http://i46.photobucket.com/albums/f136/bird_frank/_IGP6987_zps2jt03rsq.jpg)
 
 ![环嘴鸥](http://i46.photobucket.com/albums/f136/bird_frank/_IGP6937_zps7wwyxzg9.jpg)
@@ -69,7 +69,7 @@ Flowerpot Island上的小花盆。海水侵蚀、岩石风华形成这样上大�
 
 ![环嘴鸥](http://i46.photobucket.com/albums/f136/bird_frank/_IGP6944_zpsjo1oqqyb.jpg)
 
-岛上没有沙滩，湖水异常清澈。只有湖水很凉，让人没有下水的勇气。
+岛上没有沙滩，湖水异常清澈。只是湖水很凉，让人没有下水的勇气。
 ![湖水](http://i46.photobucket.com/albums/f136/bird_frank/_IGP6998_zpsacman2cw.jpg)
 
 ![湖水](http://i46.photobucket.com/albums/f136/bird_frank/_IGP6915_zpsmqiix8xq.jpg)
@@ -77,8 +77,8 @@ Flowerpot Island上的小花盆。海水侵蚀、岩石风华形成这样上大�
 从Flowerpot Island回来后，我们又驱车一个多小时来到Sauble Beach。这片位于休伦湖边的沙滩号称是世界上第二长的淡水湖沙滩。浅
 白的沙子非常细腻，和海边几乎没什么两样。
 
-之前几次出游无论是马来西亚的沙巴还是台湾垦丁都已晚霞出名，只可惜由于天气原因，全没看到。这次终于在加拿大看到落日了。不过
-天气有些好的过份，万里无云的天空自然也就没有晚霞了。还是有些遗憾。
+之前几次出游无论是马来西亚的沙巴还是台湾垦丁都以晚霞出名，只可惜由于天气原因，全没看到。这次终于在加拿大看到落日了。不过
+天气有些好的过份，万里无云的天空自然也不可能有火烧云了。还是有些遗憾。
 ![落日](http://i46.photobucket.com/albums/f136/bird_frank/_IGP7017_zpsbbt7mkvy.jpg)
 
 ![落日](http://i46.photobucket.com/albums/f136/bird_frank/_IGP7018_zpsallo5ykx.jpg)
