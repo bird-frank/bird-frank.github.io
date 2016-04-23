@@ -5,6 +5,7 @@ description: ""
 category: tech
 tags: [ios]
 ---
+{% include JB/setup %}
 
 为一个项目开发iOS客户端App，服务端采用HTTP Digest Authentication 进行身份认证。在客户使用```NSURLCredentialStorage```将
 用户名、登录密码存入KeyChain是最直接了当的方法。这样一来密码将加密存放在系统的KeyChain中，非常安全；二来，可以相信iOS
@@ -110,6 +111,5 @@ for (NSURLCredential * cred in creds.allValues) {
 
 根据从 KeyChain中保存的用户名和密码创建一个新的 ```NSURLCredential``` ，并设置 persistence 为“不保存”，问题解决啦！
 
-{% include JB/setup %}
 
 

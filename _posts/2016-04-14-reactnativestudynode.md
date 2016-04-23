@@ -5,6 +5,7 @@ description: ""
 category:
 tags: [react-native]
 ---
+{% include JB/setup %}
 
 最近一直在研究Android App的架构，但是考察了MVP，MVVM等框架以后，对于已经非常喜欢
 Ruby，RoR的简洁风格我来说，Java世界的繁琐、累赘还是让人爱不起来。
@@ -104,4 +105,3 @@ let LoginFormContainer = reduxForm({form: 'login',
 
 
 
-{% include JB/setup %}

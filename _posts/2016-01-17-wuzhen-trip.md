@@ -5,6 +5,7 @@ description: ""
 category:
 tags: []
 ---
+{% include JB/setup %}
 
 去年过年的时候去过一次乌镇，不过那次人太多，“乌泱乌泱”的，印象不太好。这周末再去，人没那么多，能够从容拍些照片。这种水乡古镇果然还是不能太热闹。
 
@@ -56,5 +57,4 @@ tags: []
 <a href="http://s46.photobucket.com/user/bird_frank/media/_IGP9029_zpsuhdelkq5.jpg.html" target="_blank"><img src="http://i46.photobucket.com/albums/f136/bird_frank/_IGP9029_zpsuhdelkq5.jpg" border="0" alt=" photo _IGP9029_zpsuhdelkq5.jpg"/></a>
 
 
-{% include JB/setup %}
 

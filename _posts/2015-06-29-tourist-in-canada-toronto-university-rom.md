@@ -5,6 +5,7 @@ description: ""
 category:
 tags: [旅游]
 ---
+{% include JB/setup %}
 
 加拿大旅游第一天是在风雨中度过的。早上先开车到多伦多大学转了一圈。放了暑假的多大太安静了。
 
@@ -81,4 +82,3 @@ photo _IGP6771_zpslbgsdvjf.jpg"/></a>
 
 
 
-{% include JB/setup %}

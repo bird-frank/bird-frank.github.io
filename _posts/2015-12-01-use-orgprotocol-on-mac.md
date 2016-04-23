@@ -5,6 +5,8 @@ description: ""
 category:
 tags: [emacs]
 ---
+{% include JB/setup %}
+
 ``org-protocol.el``是一个elisp程序，它可以解析来自emacsclient的输入，触
 发预先配置好的自定义动作。``org-protocol``接受的输入应该是一个符合URL格式的字
 符串（作为``emacsclient``的``FILE``参数），使用```org-protocol``作为协议名
@@ -86,4 +88,3 @@ end open location
 
 最后介绍另一个有用的elisp程序：[``org-protocol-capture-html``](https://github.com/alphapapa/org-protocol-capture-html)，它可以将通过bookmarklet摘取的``html``内容通过``pandoc``转换为``org-mode``的格式。在它的主页上有详细的配置说明。
 
-{% include JB/setup %}

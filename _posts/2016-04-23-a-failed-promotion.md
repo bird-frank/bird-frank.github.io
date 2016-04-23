@@ -6,6 +6,8 @@ category:
 tags: [] 
 ---
 
+{% include JB/setup %}
+
 今天上午去一家中型超市买东西，结账的时候我前面排了两个人，收银员动作有些慢。这时
 最边上一个收银台一男、一女两个营业员招呼道：“这里可以用支付宝或者微信买单，不用派对
 ”。
@@ -77,9 +79,3 @@ __没！有！优！惠！__
 <img src="http://www.qqmofasi.com/data/attachments/2014/07/29/98_IQ3s466r6s36zc869H3c_large.png"
 style="width: 450px; border: none" />
 
-
-
-
-
-
-{% include JB/setup %}
