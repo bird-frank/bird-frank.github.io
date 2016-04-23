@@ -31,7 +31,7 @@ tags: []
 “呃……对不起，今天没有。先生，您成为我们的老用户以后，以后可以有优惠。”
 
 <img src="http://wanzao2.b0.upaiyun.com/system/pictures/28297202/original/1441179212_500x500.png" 
-style="width: 450px; height: 450px; border: none" />
+style="width: 70%; border: none" />
 
 我相信至少80%的用户到这一步就不会进行下去了。
 
@@ -47,7 +47,7 @@ App Store下载，这种问题我们也碰到过，理解。
 找Wifi，输密码。Safari里终于有结果了：“找不到XXXX服务器。”
 
 <img src="http://wanzao2.b0.upaiyun.com/system/pictures/31317769/original/1449811488_500x500.png"
-style="width: 450px; height: 450px; border: none" />
+style="width: 70%; border: none" />
 
 刷新后还是一样。我还在怀疑是Wifi不好的时候，“先生，您直接在应用商店里搜索
 吧。”（你们早知道有连不上的问题？）
@@ -57,7 +57,7 @@ style="width: 450px; height: 450px; border: none" />
 来倒是挺快，可是下载进度条怎么一点不动啊！
 
 <img src="http://henan.china.com.cn/uploadfile/2016/0405/1459820581205701.jpg"
-style="width: 450px; height: 450px; border: none" />
+style="width: 70%; border: none" />
 这时旁边的收银台已经空了，老婆大人在催着走。对不起，我也只能坚持到这一步了。
 
 总之，这是一次失败的线下推广活动。他们没有获得新用户，我也没看到他们究竟怎么解决“收银台排队”这个问题的。原因嘛……
@@ -77,5 +77,5 @@ __没！有！优！惠！__
 我原来还想着回家后再试试下载他们的应用看看，不过直到写完这篇博客后我也没打开过App Store。
 
 <img src="http://www.qqmofasi.com/data/attachments/2014/07/29/98_IQ3s466r6s36zc869H3c_large.png"
-style="width: 450px; border: none" />
+style="width: 70%; border: none" />
 
