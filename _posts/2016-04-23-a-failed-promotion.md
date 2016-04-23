@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: post
 title: XX兔子——一次失败的线下推广活动 
 description: "" 
 category:
