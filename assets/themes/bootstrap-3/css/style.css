@@ -123,8 +123,8 @@ div.content p {
 div.content p img {
     margin: 10px auto;
     border: 1px solid #ccc;
-    padding: 10px;
-    width: 95%;
+    padding: 1px;
+    width: 98%;
     display: block;
     background-color: white;
 }
