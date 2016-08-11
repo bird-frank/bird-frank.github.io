@@ -6,8 +6,6 @@ category:
 tags: []
 ---
 
-{% include JB/setup %}
-
 早上吃完早饭后去周围散了会儿步。亲戚住的地方位于多伦多Mid Town，因为有一条建设中的轻轨线经过改地区，还有一个新的交通枢纽，
 所以周边地价看涨，有很多新的高层公寓楼正在建设或计划建设中。这些小楼估计慢慢地都要被高楼代替了。不过和上海比起来，这个发
 展中的区域还是可以用“幽静”来形容。
@@ -91,3 +89,4 @@ Flowerpot Island上的小花盆。海水侵蚀、岩石风华形成这样上大�
 月亮有没有更圆一些，答案自然是否定的。
 ![月亮](http://i46.photobucket.com/albums/f136/bird_frank/_IGP7024_zpso1zjhkth.jpg)
 
+{% include JB/setup %}

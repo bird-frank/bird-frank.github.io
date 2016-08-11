@@ -13,7 +13,8 @@ tags: [摄影]
 
 因为我们到达台北已是接近中午，所以先安排午餐。我们的司机兼导游介绍了一
 个非常有特色的餐厅：
-[五角船板餐厅](http://www.five-dime.com.tw/html/homepage.htm)。餐厅的
+
+![五角船板餐厅](http://www.five-dime.com.tw/html/homepage.htm)。餐厅的
 老板兼设计师是一个女画家，因此整个餐厅被装饰成一个现代主义的艺术品。
 
 ![餐厅内装饰](http://i46.photobucket.com/albums/f136/bird_frank/_IGP5374_zps10f9d089.jpg)
