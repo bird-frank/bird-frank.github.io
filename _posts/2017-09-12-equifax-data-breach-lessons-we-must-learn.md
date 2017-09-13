@@ -8,11 +8,12 @@ tags: [技术,翻译]
 
 {% include JB/setup %}
 
-[原文链接](http://www.agileadvice.com/2017/09/08/agilemanagement/equifax-data-breach-lessons/)
+翻译自[EQUIFAX DATA BREACH: LESSONS WE MUST LEARN](http://www.agileadvice.com/2017/09/08/agilemanagement/equifax-data-breach-lessons/)
+
+译者注：Equifax是美国最大的征信机构之一。[关于Equifax数据泄漏事件的中文报道](http://gold.hexun.com/2017-09-12/190828510.html)
 
 ### 怎样的“糟糕环境”导致了Equifax数据泄漏事件？
 
-译者注：Equifax是美国最大的征信机构之一。[关于Equifax数据泄漏事件的中文报道](http://gold.hexun.com/2017-09-12/190828510.html)
 
 首先让我们回顾一下：据报道黑客从Equifax的系统中窃取了未透露数量的敏感数据。黑客
 搜集了超过1.43亿人的姓名、地址、信用卡、驾驶证号、银行交易记录。（你的信息也可能
@@ -110,7 +111,7 @@ agencies）讨论解决它们。”或者“我们已经在下一季度安排了
 须专业。你们要说“不”并且要求为交付高质量的软件所需要的所有条件。你们是最接近代
 码的人，因此你们直接为用户的安全和身心健康负责。
 
-### Equifax和所有的企业，这里我作为你们的用户、股东和客户对你们说：
+### Equifax和所有的企业，这里我作为们的用户、股东和客户对你们说：
 
 Equifax非常悲惨地失败了，面临必将接踵而来的所有诉讼官司，他们罪有应得，从最高领
 导到开发者，所有人（谁也逃不过）
@@ -133,3 +134,4 @@ Equifax的直接客户——没有人选择Equifax作为他们的个人代理。
 
 请转发！（——原作者）
 
+（转发请注明出处，并保留英文原文链接。）
