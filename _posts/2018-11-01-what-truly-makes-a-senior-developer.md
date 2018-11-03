@@ -3,10 +3,14 @@ layout: post
 title: 到底怎样算一个“资深”软件开发者
 description: ""
 category:
-tags: []
+tags: [翻译]
 ---
 
 {% include JB/setup %}
+
+说明：这是英文Blog [What truly makes a senior developer](https://medium.com/s/story/what-truly-makes-a-senior-developer-74b608847d7e)的翻译。原文需翻墙。
+
+----
 
 我在自己的软件生涯中注意到一件事：较长的工作时间并不必然使一个软件开发者表现优秀。
 
