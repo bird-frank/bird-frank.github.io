@@ -42,7 +42,7 @@ tags: []
 
 当无法直接接触到最终用户时，比如在开发软件产品的时候，一般由公司里的某个部门或人（最常见的是产品经理）扮演用户的角色。理论上这个人应该比普通用户更了解信息技术、了解软件，因此有可能设计出合理的软件产品功能。但实际情况未必如此乐观，否则也不会发生"以拳头来决定系统功能"这种闹剧了。
 
-![](http://ww3.sinaimg.cn/large/006tNc79ly1g35iphlln7j30g408paaf.jpg)
+![](http://ww3.sinaimg.in/large/006tNc79ly1g35iphlln7j30g408paaf.jpg)
 
 需求分析应该是一个多方参与、共同学习、互相补充的过程，而不是一方讲、一方听的单向信息传递的过程。学习、探讨的目的就是搞清楚上面说的三个要素。用户了解自己的问题，开发方则更了解什么样的信息技术和软件功能能解决用户问题。更重要的是，开放方要评估不同的解决方案需要的时间和金钱成本，从而在约束条件内选择最经济的解决方案最大限度地解决用户的问题。XP 提出的"用户决定 User Story 的优先级、开发团队估算完成需要的时间"正是这个分工思想的体现。
 
@@ -56,7 +56,7 @@ UseCase 和 UserStory 都是从用户的角度描述用户是如何使用目标�
 
 无论是 UseCase 还是 User Story 都有一个粒度大小的问题。就是一个 UseCase 或者 User Story 应该包括多少用户交互或"使用场景"。
 
-![](http://ww3.sinaimg.cn/large/006tNc79ly1g35iws4n6eg304r08a3ya.gif)
+![](http://ww3.sinaimg.in/large/006tNc79ly1g35iws4n6eg304r08a3ya.gif)
 (Alistair Cockburn 在 Writing Effective UseCase 中提出的 Use Case 的层次。)
 
 在 UseStory 方面则是使用 Epic 来表示更粗粒度的功能或用户要完成的任务。还有使用 Initiative、Theme 来表示更大范围的功能与任务的。
@@ -64,7 +64,7 @@ UseCase 和 UserStory 都是从用户的角度描述用户是如何使用目标�
 随着 UserStory 的使用，人们也发现了"只见树木、不见森林"的问题。由于要求一个 UserStory 不能跨迭代（Iteration
 or spring, 一般不超过两周），XP 更要求开发一个 UserStory 所需的人力不超过 2 到 3 个人天，因此一个大项目中 UserStory 的数量是非常多的。在这么多的 UserStory 中可能会迷失整个项目的大局。
 
-![](http://ww3.sinaimg.cn/large/006tNc79ly1g35ixy5fvfj30yg0jeqf6.jpg)
+![](http://ww3.sinaimg.in/large/006tNc79ly1g35ixy5fvfj30yg0jeqf6.jpg)
 (图片来源：<https://evolvingagile.wordpress.com/2017/04/15/implementing-change-using-kanban-part-viii/>)
 
 于是有了 User StoryMapping，用于看清这个系统的全貌、同时规划每个版本交付的功能。下图是一个 UserStoryMapping 图的例子。从左至右表示用户使用系统完成某个任务的过程。从上到下表示功能的开发顺序（版本计划）。
@@ -75,14 +75,14 @@ or spring, 一般不超过两周），XP 更要求开发一个 UserStory 所需�
 Alberto Brandolini 在 2013 年提出了 Event Storming 方法。这是一种分析复杂的业务问题域的 workshop format
 (研讨会形式？)。Brandolini 认为在复杂的业务流程中会发生一系列业务事件。所以 Event Storming 从业务事件入手，然后分析导致业务事件发生的"决策"（或"指令"）。决策需要数据支撑，此谓"Read Model"。"决策"根据"业务逻辑"触发事件，一个事件又可能触发其它的业务事件。如此串起整个业务流程。
 
-![](http://ww2.sinaimg.cn/large/006tNc79ly1g35jc25cdlj30ym0u0jyp.jpg)
+![](http://ww2.sinaimg.in/large/006tNc79ly1g35jc25cdlj30ym0u0jyp.jpg)
 ([图片来源: A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d))
 
 Event Storming 与 DDD 有很好的结合，可以帮助识别 Aggregate 和 Bounded Context。同时也能很自然地导出"事件驱动"的应用架构，契合微服务时代各服务之间的降低耦合度的需要。
 
 UserStrory 和 Event Storming 是可以结合使用的。具体如下图所示。
 
-![](http://ww4.sinaimg.cn/large/006tNc79ly1g35jbmyghuj30iq0paq8h.jpg)
+![](http://ww4.sinaimg.in/large/006tNc79ly1g35jbmyghuj30iq0paq8h.jpg)
 ([图片来源：Embed event storming in your agile toolset](https://medium.com/@kevin.van.ingen/mix-event-storming-in-your-agile-toolset-437a54939aeb))
 
 简单说就是先确定系统要解决的业务问题。然后使用 Event Storming 分析业务流程和问题域，这个过程中可以细化出 User Story。然后使用 User Story 规划系统版本计划，由此就可以得到待开发的 Backlog。
@@ -95,21 +95,21 @@ UseCase 在流行的过程中，使用者常常陷入"UseCase 的文档模板应
 
 "As a ...... I want to ...... So that ......"。
 
-![](http://ww4.sinaimg.cn/large/006tNc79ly1g35jschg44j30dw0afwf3.jpg)
+![](http://ww4.sinaimg.in/large/006tNc79ly1g35jschg44j30dw0afwf3.jpg)
 ([图片来源: User story cards for web writers](https://4syllables.com.au/articles/user-story-cards/))
 
 填空的部分分别表示"用户角色"、"执行的动作"、"执行该动作的目的（或对用户的价值）"。
 
 也有公司制定了比较正式的 User Story 卡片的格式。但是用 Ron Jeffries(XP 的发明人之一)的话说，当你考虑 UserStory 的正式格式的时候，你就已经错了。
 
-![](http://ww2.sinaimg.cn/large/006tNc79ly1g35jkzlq64j30gk0c0dho.jpg)
+![](http://ww2.sinaimg.in/large/006tNc79ly1g35jkzlq64j30gk0c0dho.jpg)
 
 User Story 不是正式的需求文档。User Story 卡片只是一个提示，表明"这里有一段对话"。用户或者 ProductOwner(XP 术语)和开发者之间通过对话、讨论获得对"软件应该达到什么目标"这个问题的深入理解。
 
 Event Storming 也是一种非常轻量级的、"不正式"的方法。要求把尽可能全的人邀请到一间会议室中，但是除了设置放有咖啡、饮料和点心的桌子以外，没有会议桌、也没有椅子。所有人都站着，拿着不同颜色的便签纸。不同颜色代表"事件"、"指令"、"Read
 Model"等不同概念。每个人都可以写了标签然后贴到墙上。
 
-![](http://ww4.sinaimg.cn/large/006tNc79ly1g35jlrt487j31hd0u0dzj.jpg)
+![](http://ww4.sinaimg.in/large/006tNc79ly1g35jlrt487j31hd0u0dzj.jpg)
 ([图片来源: A facilitators recipe for Event Storming](https://medium.com/@springdo/a-facilitators-recipe-for-event-storming-941dcb38db0d))
 
 那么需求文档到底应该是什么样的呢？
@@ -127,7 +127,7 @@ Model"等不同概念。每个人都可以写了标签然后贴到墙上。
 
 验收测试用例应该采用"举例子"的方式。例如在一个在线购物系统中，对于是否应该给用户免运费优惠的规则，测试用例应该列出免运费和不免运费的各种情况。
 
-![](http://ww2.sinaimg.cn/large/006tNc79ly1g35jndv0mhj30b90dwdgc.jpg)
+![](http://ww2.sinaimg.in/large/006tNc79ly1g35jndv0mhj30b90dwdgc.jpg)
 
 相关的概念还包括：
 
